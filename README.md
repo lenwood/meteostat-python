@@ -86,4 +86,4 @@ By using the Meteostat Python library you agree to our [terms of service](https:
 
 ## Code License
 
-The code of this library is available under the [MIT license](https://opensource.org/licenses/MIT)..
+The code of this library is available under the [MIT license](https://opensource.org/licenses/MIT).
